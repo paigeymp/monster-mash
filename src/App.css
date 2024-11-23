@@ -13,3 +13,11 @@ body {
   );
   text-align: center;
 }
+
+.app-title {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  font-size: 75px;
+  color: rgb(0, 8, 119);
+  font-family: "bokor", system-ui;
+}
