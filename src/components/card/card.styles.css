@@ -11,7 +11,16 @@
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
   color: rgb(0, 8, 119);
-  font-family: "Bokor", system-ui;
+}
+
+h2 {
+  font-family: "metal mania", system-ui;
+  font-size: 30px;
+  margin-top: 2px;
+}
+
+p {
+  font-family: "roboto flex", sans-serif;
 }
 
 .card-container:hover {
