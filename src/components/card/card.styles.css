@@ -16,7 +16,7 @@
 h2 {
   font-family: "metal mania", system-ui;
   font-size: 30px;
-  margin-top: 2px;
+  margin-top: 5px;
 }
 
 p {
@@ -25,4 +25,10 @@ p {
 
 .card-container:hover {
   transform: scale(1.05);
+}
+
+@media (max-width: 800px) {
+  .card-container {
+    margin: 15px;
+  }
 }

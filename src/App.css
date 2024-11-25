@@ -18,3 +18,10 @@ body {
   color: rgb(0, 8, 119);
   font-family: "metal mania", system-ui;
 }
+
+@media (max-width: 800px) {
+  .app-title {
+    font-size: 48px;
+    color: white;
+  }
+}

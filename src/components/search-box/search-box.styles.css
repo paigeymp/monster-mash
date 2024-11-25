@@ -8,3 +8,12 @@
   margin-top: 30px;
   margin-bottom: 30px;
 }
+
+@media (max-width: 800px) {
+  .search-box {
+    border-radius: 15px;
+    font-size: 14px;
+    text-align: center;
+
+  }
+}
