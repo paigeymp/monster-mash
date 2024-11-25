@@ -3,7 +3,7 @@
   flex-direction: column;
   background-color: #f0b4b4;
   border: 1px solid rgb(0, 8, 119);
-  border-radius: 250px;
+  border-radius: 15px;
   padding: 25px;
   cursor: crosshair;
   -moz-osx-font-smoothing: grayscale;
