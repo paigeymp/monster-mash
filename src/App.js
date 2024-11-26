@@ -36,7 +36,6 @@ const App = () => {
         placeholder="search monsters"
         className="monsters-search-box"
       />
-
       <CardList monsters={filteredMonsters} />
     </div>
   );
